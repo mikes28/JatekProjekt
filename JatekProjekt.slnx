@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="JatekProjekt/JatekProjekt.csproj" />
+  <Project Path="JatekProjektTeszt/JatekProjektTeszt.csproj" />
+</Solution>
